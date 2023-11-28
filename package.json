@@ -1,5 +1,5 @@
 {
-  "name": "placementcell_iamroare",
+  "name": "placement-cell",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start":"node index.js"
   },
-  "author": "Rahul Prajapati",
+  "author": "Aman Verma",
   "license": "ISC",
   "dependencies": {
     "body": "^5.1.0",
